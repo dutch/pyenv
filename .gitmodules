@@ -1,3 +1,6 @@
 [submodule "plugins/pyenv-doctor"]
 	path = plugins/pyenv-doctor
 	url = https://github.com/pyenv/pyenv-doctor.git
+[submodule "plugins/pyenv-virtualenv"]
+	path = plugins/pyenv-virtualenv
+	url = https://github.com/pyenv/pyenv-virtualenv.git
